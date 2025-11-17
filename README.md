@@ -1,10 +1,13 @@
+Pedro Gaspar - RM: 554887
+Enrico Ricarte - RM: 558571
+
 # README — dynamic_ferrari.py
 
 Este README explica, passo a passo, cada função presente no arquivo `dynamic_ferrari.py`. O objetivo do script é selecionar um conjunto ótimo de "habilidades" (problema Knapsack 0/1) usando recursão e memoização, com relatórios por funcionário e por categoria. Também há uma implementação recursiva de ordenação (merge sort) usada antes de construir o DataFrame.
 
 Observação: o script depende de `pandas` para manipulação de tabelas; instale com `pip install pandas` se necessário.
 
-# Sistema Integrado de Desenvolvimento Futuro — Visão Conceitual
+## Sistema Integrado de Desenvolvimento Futuro — Visão Conceitual
 
 Este repositório apresenta parte da implementação conceitual de uma solução voltada ao desenvolvimento contínuo de habilidades dentro de organizações.
 A proposta geral da plataforma é funcionar como um hub de evolução profissional, onde colaboradores podem registrar competências que desejam aprimorar, acompanhar metas, criar solicitações internas e monitorar seu progresso ao longo do tempo.
